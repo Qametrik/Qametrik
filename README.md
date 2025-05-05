@@ -42,7 +42,3 @@ Se você também acredita que **compartilhar é multiplicar**, siga nossos repos
 
 > 💙 Feito por quem vive SAP todos os dias.  
 > 📍 QAMetrik · Fábrica de Software e Consultoria SAP
-
----
-
-Se quiser, posso adaptar esse conteúdo para ser bilíngue (português/inglês) ou gerar imagens e ícones para ilustrar melhor o README. Deseja isso?

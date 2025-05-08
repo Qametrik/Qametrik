@@ -29,8 +29,8 @@ Nosso foco está em **crescer juntos como comunidade**, por isso valorizamos cad
 
 ## 🌐 Conecte-se conosco
 
-🔗 [LinkedIn da QAMetrik](https://www.linkedin.com/company/qametrik/posts/?feedView=all)  
-🌍 [www.qametrik.com.br](http://www.qametrik.com.br)
+🔗 [LinkedIn](https://www.linkedin.com/company/qametrik/posts/?feedView=all)  
+🌍 [Site](http://www.qametrik.com.br)
 
 ---
 
